@@ -46,6 +46,3 @@ You can modify the code to customize various aspects:
 
 ## Author
 Hasan Bukhari
-
-## License
-This project is open source and available under the MIT License.
